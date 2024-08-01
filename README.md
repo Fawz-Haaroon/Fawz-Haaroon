@@ -1,4 +1,4 @@
-![MasterHead]("https://miro.medium.com/v2/resize:fit:997/1*hSmwvKL1pgfHlPAb-WA_Rw.gif")
+<img alt="" class="bg lm ms c" width="700" height="394" loading="eager" role="presentation" src="https://miro.medium.com/v2/resize:fit:997/1*hSmwvKL1pgfHlPAb-WA_Rw.gif">
 <h1 align="center">Hi 👋, I'm Fᴀᴡᴢ Hᴀᴀʀᴏᴏɴ</h1>
 <h3 align="center">FullStack Developer | AI-ML engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
