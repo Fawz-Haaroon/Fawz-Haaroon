@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/D4D12AQHZDtFOBjJKmQ/article-cover_image-shrink_720_1280/0/1707216505532?e=2147483647&amp;v=beta&amp;t=cB8lMjMST0rbpWqnPqSQV0I3AEwXvuz7pTEHwdiVzUI" jsaction="" class="sFlh5c pT0Scc iPVvYb" style="max-width: 1280px; height: 197px; margin: 0px; width: 351px;" alt="Studies Reveal AI as Top Business Technology, Hindered by Skills Gap" jsname="kn3ccd" aria-hidden="false">
+<img src="https://media.licdn.com/dms/image/D4D12AQHZDtFOBjJKmQ/article-cover_image-shrink_720_1280/0/1707216505532?e=2147483647&amp;v=beta&amp;t=cB8lMjMST0rbpWqnPqSQV0I3AEwXvuz7pTEHwdiVzUI" jsaction="" class="sFlh5c pT0Scc iPVvYb" height= "197px" width= "100%" alt="Studies Reveal AI as Top Business Technology, Hindered by Skills Gap"  aria-hidden="false">
 <h1 align="center">Hi 👋, I'm Fᴀᴡᴢ Hᴀᴀʀᴏᴏɴ</h1>
 <h3 align="center">FullStack Developer | AI-ML engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
