@@ -1,4 +1,4 @@
-![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40ceo_45925%2F2025-a-i-puts-game-programmers-out-of-business-aa183243eb6d&psig=AOvVaw2F-ZS-d4NZ1XH64-JFvfH_&ust=1722599525785000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOCZsb3d04cDFQAAAAAdAAAAABAa)
+![MasterHead]("https://miro.medium.com/v2/resize:fit:997/1*hSmwvKL1pgfHlPAb-WA_Rw.gif")
 <h1 align="center">Hi 👋, I'm Fᴀᴡᴢ Hᴀᴀʀᴏᴏɴ</h1>
 <h3 align="center">FullStack Developer | AI-ML engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
