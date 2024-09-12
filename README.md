@@ -1,6 +1,6 @@
 <img src="https://media.licdn.com/dms/image/D4D12AQHZDtFOBjJKmQ/article-cover_image-shrink_720_1280/0/1707216505532?e=2147483647&amp;v=beta&amp;t=cB8lMjMST0rbpWqnPqSQV0I3AEwXvuz7pTEHwdiVzUI" jsaction="" class="sFlh5c pT0Scc iPVvYb" height= "100%" width= "100%" alt="Studies Reveal AI as Top Business Technology, Hindered by Skills Gap"  aria-hidden="false">
 <h1 align="center">Hi 👋, I'm Fᴀᴡᴢ Hᴀᴀʀᴏᴏɴ</h1>
-<h3 align="center">FullStack Developer | AI-ML engineer</h3>
+<h3 align="center"> |  </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fawz-haaroon&label=Profile%20views&color=0e75b6&style=flat" alt="fawz-haaroon" /> </p>
