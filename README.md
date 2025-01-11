@@ -1,6 +1,4 @@
-<img src="![Screenshot_20250110_233414_Instagram.jpg](https://github.com/user-attachments/assets/d114c1bb-eb66-4182-afa1-4163e7e7d1cd)
-
-">
+[Screenshot_20250110_233414_Instagram.jpg](https://github.com/user-attachments/assets/d114c1bb-eb66-4182-afa1-4163e7e7d1cd)
 <h1 align="center">Hi 👋, I'm Fᴀᴡᴢ Hᴀᴀʀᴏᴏɴ</h1>
 <h3 align="center"> |  </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
