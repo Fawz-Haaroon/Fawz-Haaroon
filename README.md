@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/0bd87b6c-54cd-43e1-89ee-c7102a83ff42" width="1000" height="250">
+<!-- <img src="https://github.com/user-attachments/assets/0bd87b6c-54cd-43e1-89ee-c7102a83ff42" width="1000" height="250">
 
 <h1 align="center">Hi 👋, I'm Fᴀᴡᴢ Hᴀᴀʀᴏᴏɴ</h1>
 <h3 align="center"> |  </h3>
@@ -33,4 +33,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fawz-haaroon&show_icons=true&locale=en" alt="fawz-haaroon" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fawz-haaroon&" alt="fawz-haaroon" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fawz-haaroon&" alt="fawz-haaroon" /></p> -->
