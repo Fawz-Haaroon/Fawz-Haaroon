@@ -1,0 +1,25 @@
+name: Rebuild Profile README
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Compile README
+        run: |
+          chmod +x scripts/compile-readme.sh
+          ./scripts/compile-readme.sh
+      - name: Commit README if changed
+        run: |
+          if git status --porcelain | grep README.md; then
+            git config user.name "profile-bot"
+            git config user.email "profile-bot@users.noreply.github.com"
+            git add README.md
+            git commit -m "chore: rebuild profile README" || true
+            git push
+          fi

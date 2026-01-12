@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200">
+  <rect width="900" height="200" rx="12" fill="#0a0f14" stroke="#9efcff" stroke-width="2"/>
+  <text x="40" y="80" font-family="'JetBrains Mono', monospace" font-size="24" fill="#9efcff">
+    fawz@systems:~$
+  </text>
+  <text x="40" y="120" font-family="'JetBrains Mono', monospace" font-size="18" fill="#e6edf3">
+    Systems Engineer · Arch · Nix · Neovim
+  </text>
+</svg>
