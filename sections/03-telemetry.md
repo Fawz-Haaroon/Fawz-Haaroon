@@ -19,15 +19,15 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fawz-Haaroon&theme=tokyonight" />
+      <img alt="Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fawz-Haaroon&theme=tokyonight" />
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img alt="Summary Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fawz-Haaroon&theme=tokyonight" />
+      <img alt="Summary Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fawz-Haaroon&theme=tokyonight" />
     </td>
     <td align="center">
-      <img alt="Productive Time" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Fawz-Haaroon&theme=tokyonight" />
+      <img alt="Productive Time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Fawz-Haaroon&theme=tokyonight" />
     </td>
   </tr>
 </table>

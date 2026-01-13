@@ -1,6 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="150" height="50">
   <rect width="150" height="50" rx="8" fill="#0a0f14" stroke="#9efcff" stroke-width="2"/>
-  <text x="75" y="30" font-family="'JetBrains Mono', monospace" font-size="14" fill="#9efcff" text-anchor="middle">
-    ${NAME}
-  </text>
+  <text x="75" y="30" font-family="'JetBrains Mono', monospace" font-size="14" fill="#9efcff" text-anchor="middle">PYTHON</text>
 </svg>
