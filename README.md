@@ -1,8 +1,10 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/headers/hero-terminal.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/headers/hero-glitch.svg" />
-  <img alt="Fawz Haaroon - Systems Engineer" src="assets/headers/hero-terminal.svg" />
-</picture>
+<p align="center">
+  <img alt="Hyprland Terminal Banner" src="assets/headers/hero-terminal.svg" />
+</p>
+
+<p align="center">
+  <img alt="Typing Intro" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=9EFCFF&center=true&vCenter=true&width=800&lines=Fawz+Haaroon+%E2%80%94+Systems+Engineer;Arch+Linux+%C2%B7+NixOS+%C2%B7+Hyprland+%C2%B7+Neovim;Building+observable+systems%2C+not+demos" />
+</p>
 
 ```text
 ███████  █████  ██     ██ ███████     ██   ██  █████   █████  ██████   ██████   ██████  ███    ██ 
@@ -10,43 +12,58 @@
 █████   ███████ ██  █  ██   ███       ███████ ███████ ███████ ██████  ██    ██ ██    ██ ██ ██  ██ 
 ██      ██   ██ ██ ███ ██  ███        ██   ██ ██   ██ ██   ██ ██   ██ ██    ██ ██    ██ ██  ██ ██ 
 ██      ██   ██  ███ ███  ███████     ██   ██ ██   ██ ██   ██ ██   ██  ██████   ██████  ██   ████ 
-                                                                                                    
-                       Systems Engineer | Arch · Nix · Neovim
+                                                                                                   
+                  Systems Engineer | Arch · NixOS · Hyprland · Neovim
 ```
 ### Connect
 
 <p align="center">
   <a href="https://github.com/Fawz-Haaroon"><img alt="GitHub" src="assets/badges/connect/github.svg" /></a>
+  <a href="mailto:fawzhaaroon216@gmail.com"><img alt="Gmail" src="assets/badges/connect/gmail.svg" /></a>
+  <a href="https://www.linkedin.com/in/fawz-haaroon"><img alt="LinkedIn" src="assets/badges/connect/linkedin.svg" /></a>
+  <a href="https://x.com/FawzHaaroon"><img alt="X" src="assets/badges/connect/twitter.svg" /></a>
+  <a href="https://leetcode.com/Fawz--Haaroon"><img alt="LeetCode" src="assets/badges/connect/leetcode.svg" /></a>
+  <a href="https://www.codechef.com/users/Fawz--Haaroon"><img alt="CodeChef" src="assets/badges/connect/codechef.svg" /></a>
+  <a href="https://codeforces.com/profile/Fawz_Haaroon"><img alt="Codeforces" src="assets/badges/connect/codeforces.svg" /></a>
+  <a href="https://stackoverflow.com/users/Fawz-Haaroon"><img alt="Stack Overflow" src="assets/badges/connect/stackoverflow.svg" /></a>
+  <a href="https://instagram.com/algorithm_euphoria"><img alt="Instagram" src="assets/badges/connect/instagram.svg" /></a>
 </p>
 ### System Identity
 
 ![System Info](assets/dashboards/system-info.svg)
 ### Telemetry
 
-<p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Fawz-Haaroon&show_icons=true&hide_border=true&bg_color=0a0f14&title_color=9efcff&icon_color=9efcff&text_color=e6edf3" />
-</p>
-
-<p align="center">
-  <img alt="Contribution Streak" src="https://streak-stats.demolab.com?user=Fawz-Haaroon&hide_border=true&background=0a0f14&stroke=9efcff&ring=9efcff&fire=ff6b6b&currStreakLabel=9efcff" />
-</p>
-
-<p align="center">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fawz-Haaroon&layout=compact&hide_border=true&bg_color=0a0f14&title_color=9efcff&text_color=e6edf3" />
-</p>
-
-<p align="center">
-  <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=Fawz-Haaroon&no-frame=true&no-bg=true&margin-w=15&column=7" />
-</p>
-
-<p align="center">
-  <img alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fawz-Haaroon&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img alt="Summary Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fawz-Haaroon&theme=tokyonight" />
-  <img alt="Productive Time" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Fawz-Haaroon&theme=tokyonight" />
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Fawz-Haaroon&show_icons=true&hide_border=true&bg_color=0a0f14&title_color=9efcff&icon_color=9efcff&text_color=e6edf3" />
+    </td>
+    <td align="center">
+      <img alt="Contribution Streak" src="https://streak-stats.demolab.com?user=Fawz-Haaroon&hide_border=true&background=0a0f14&stroke=9efcff&ring=9efcff&fire=ff6b6b&currStreakLabel=9efcff" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fawz-Haaroon&layout=compact&hide_border=true&bg_color=0a0f14&title_color=9efcff&text_color=e6edf3" />
+    </td>
+    <td align="center">
+      <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=Fawz-Haaroon&theme=matrix&no-frame=true&no-bg=true&margin-w=10&column=4" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fawz-Haaroon&theme=tokyonight" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img alt="Summary Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fawz-Haaroon&theme=tokyonight" />
+    </td>
+    <td align="center">
+      <img alt="Productive Time" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Fawz-Haaroon&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
 ### Proof of Work
 
 #### pifeed
@@ -56,20 +73,39 @@ PIFEED
 Modular real-time video streaming and recording system for autonomous drones.
 
 Stack: GStreamer · MAVLink · Embedded Linux
-Focus: real-time video pipelines under unstable links and hardware limits.
+Focus: real-time video pipelines under latency, bandwidth, and hardware limits.
+Target: sub-second end-to-end video latency under embedded constraints.
 Repo: https://github.com/Fawz-Haaroon/pifeed
 ```
 
-#### Profile Telemetry
+#### nvim
+
+```text
+NVIM
+Custom Neovim workspace tuned for systems engineering.
+
+Stack: Neovim · Lua · LSP · Treesitter
+Focus: low-latency editing, controlled plugin overhead, fast startup.
+Repo: https://github.com/Fawz-Haaroon/nvim
+```
+
+#### Profile dashboard
 
 ```text
 PROFILE DASHBOARD
-This repository. GitHub profile as a systems dashboard.
+This repository. GitHub profile as an observable system.
 
 Stack: GitHub Actions · SVG · Markdown
-Focus: observable profile, auto-updated metrics, zero fake data.
+Focus: real metrics, generated README, zero fake data.
 Repo: https://github.com/Fawz-Haaroon/Fawz-Haaroon
 ```
+
+#### Pinned Repositories
+
+<p align="center">
+  <a href="https://github.com/Fawz-Haaroon/pifeed"><img alt="pifeed" src="https://github-readme-stats.vercel.app/api/pin?username=Fawz-Haaroon&repo=pifeed&theme=radical&hide_border=true" /></a>
+  <a href="https://github.com/Fawz-Haaroon/nvim"><img alt="nvim" src="https://github-readme-stats.vercel.app/api/pin?username=Fawz-Haaroon&repo=nvim&theme=radical&hide_border=true" /></a>
+</p>
 ### Stack Matrix
 
 #### Languages
@@ -93,6 +129,7 @@ Repo: https://github.com/Fawz-Haaroon/Fawz-Haaroon
   <img alt="Linux" src="assets/badges/stack/systems/linux.svg" />
   <img alt="Debian" src="assets/badges/stack/systems/debian.svg" />
   <img alt="Alpine" src="assets/badges/stack/systems/alpine.svg" />
+  <img alt="Hyprland" src="assets/badges/stack/systems/hyprland.svg" />
 </p>
 
 #### Infrastructure
@@ -123,31 +160,43 @@ Repo: https://github.com/Fawz-Haaroon/Fawz-Haaroon
 </p>
 ### Current Focus
 
-List up to three active systems projects or research threads. Each line must point to a real repository or document.
+Active systems work right now:
 
-Examples (replace with your current work):
-
-- **pifeed** — Real-time video pipeline for autonomous drones · [repo](https://github.com/Fawz-Haaroon/pifeed)
-- **[project-name]** — One-line purpose · [repo](https://github.com/Fawz-Haaroon/your-repo)
-- **[research-note]** — Short description · link to real write-up
+- **stationInvariant** — Research on system invariants and correctness under load. _(private for now)_
+- **telemetry-core** — Observability-first backend core; metrics and introspection as first-class design. _(design and experiments, repo will be public when real)_
+- **pifeed** — Real-time drone video pipelines under bandwidth and hardware constraints · [repo](https://github.com/Fawz-Haaroon/pifeed)
 ### Activity Graphs
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Fawz-Haaroon&theme=react-dark&hide_border=true&bg_color=0a0f14&color=9efcff&line=9efcff&point=ff6b6b)
+<table>
+  <tr>
+    <td align="center">
+      <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Fawz-Haaroon&theme=react-dark&hide_border=true&bg_color=0a0f14&color=9efcff&line=9efcff&point=ff6b6b" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img alt="3D Contributions" src="assets/graphs/contributions-3d.svg" />
+    </td>
+  </tr>
+</table>
 ### Code Metrics
 
 Real coding activity metrics (WakaTime or equivalent) will be wired here once an account is configured. Until then, only GitHub contribution data is exposed.
 ### Widgets
 
-#### Contribution Snake
-
-![Contribution Snake](assets/widgets/snake-animation.svg)
-
-#### Typing Banner
-
-![Typing Banner](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=9EFCFF&center=true&vCenter=true&width=600&lines=Building+systems+that+do+not+pretend;+Optimizing+for+production%2C+not+demos)
+<table>
+  <tr>
+    <td align="center">
+      <img alt="Contribution Snake" src="assets/widgets/snake-animation.svg" />
+    </td>
+    <td align="center">
+      <img alt="Typing Banner" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=9EFCFF&center=true&vCenter=true&width=600&lines=Building+systems+that+do+not+pretend;+Optimizing+for+production%2C+not+demos" />
+    </td>
+  </tr>
+</table>
 ### Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Fawz-Haaroon&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Fawz-Haaroon&theme=matrix&no-frame=true&no-bg=true&margin-w=10&column=6)
 ### Visitor Analytics
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Fawz-Haaroon&color=9efcff&style=flat-square&label=Profile+Views)

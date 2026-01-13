@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300">
+  <rect width="900" height="300" rx="12" fill="#0a0f14" stroke="#9efcff" stroke-width="2"/>
+  <text x="450" y="160" font-family="'JetBrains Mono', monospace" font-size="18" fill="#9efcff" text-anchor="middle">
+    3D contribution graph will render here
+  </text>
+</svg>

@@ -21,6 +21,7 @@
   <img alt="Linux" src="assets/badges/stack/systems/linux.svg" />
   <img alt="Debian" src="assets/badges/stack/systems/debian.svg" />
   <img alt="Alpine" src="assets/badges/stack/systems/alpine.svg" />
+  <img alt="Hyprland" src="assets/badges/stack/systems/hyprland.svg" />
 </p>
 
 #### Infrastructure

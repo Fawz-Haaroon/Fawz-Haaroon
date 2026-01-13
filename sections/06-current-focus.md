@@ -1,9 +1,7 @@
 ### Current Focus
 
-List up to three active systems projects or research threads. Each line must point to a real repository or document.
+Active systems work right now:
 
-Examples (replace with your current work):
-
-- **pifeed** — Real-time video pipeline for autonomous drones · [repo](https://github.com/Fawz-Haaroon/pifeed)
-- **[project-name]** — One-line purpose · [repo](https://github.com/Fawz-Haaroon/your-repo)
-- **[research-note]** — Short description · link to real write-up
+- **stationInvariant** — Research on system invariants and correctness under load. _(private for now)_
+- **telemetry-core** — Observability-first backend core; metrics and introspection as first-class design. _(design and experiments, repo will be public when real)_
+- **pifeed** — Real-time drone video pipelines under bandwidth and hardware constraints · [repo](https://github.com/Fawz-Haaroon/pifeed)
