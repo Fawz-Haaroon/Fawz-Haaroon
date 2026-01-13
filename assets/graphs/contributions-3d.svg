@@ -1,6 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="300">
   <rect width="900" height="300" rx="12" fill="#0a0f14" stroke="#9efcff" stroke-width="2"/>
-  <text x="450" y="160" font-family="'JetBrains Mono', monospace" font-size="18" fill="#9efcff" text-anchor="middle">
-    3D contribution graph will render here
+  <text x="450" y="60" font-family="'JetBrains Mono', monospace" font-size="16" fill="#9efcff" text-anchor="middle">
+    3D contributions (night view)
   </text>
+  <rect x="120" y="180" width="40" height="60" fill="#132030" />
+  <rect x="220" y="150" width="40" height="90" fill="#182c40" />
+  <rect x="320" y="120" width="40" height="120" fill="#1d3650" />
+  <rect x="420" y="90"  width="40" height="150" fill="#234160" />
+  <rect x="520" y="140" width="40" height="100" fill="#1d3650" />
+  <rect x="620" y="200" width="40" height="40" fill="#132030" />
 </svg>

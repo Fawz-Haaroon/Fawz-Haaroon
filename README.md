@@ -7,21 +7,27 @@
 </p>
 
 ```text
->> [~] $_ find ~/ -maxdepth 1 -type l
-codeberg
-github
-codeforces
-leetcode
-telemetry
-resume
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⣰⣾⠁⠀⢦⣾⣤⠆⠀⠻⣧⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⢠⣼⠏⠀⠀⠀⠀⣿⡇⠀⠀⠀⠈⢷⣄⠀⠀⠀⠀
+⠀⠀⢀⣸⣿⠃⠀⠀⠀⠀⠀⣿⡇⠀⠀⠀⠀⠀⢿⣧⡀⠀⠀
+⠀⢰⣾⣿⡁⠀⠀⠀⠀⠀⠀⣿⡇⠀⠀⠀⠀⠀⢀⣿⣿⠖⠀
+⠀⠀⠈⠻⣿⣦⣄⠀⠀⠀⠀⣿⡇⠀⠀⠀⢀⣴⣿⠟⠁⠀⠀
+⠀⠀⠀⠀⠈⠻⢿⣷⣄⡀⠀⣿⡇⠀⣠⣾⣿⠟⠁⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠙⢿⣿⣦⣿⣧⣾⣿⠟⠁⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢙⣿⣿⣿⣿⡀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⣿⣿⣿⣿⣿⣦⡀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⢀⣴⣿⣿⠟⠁⣻⣿⠈⠙⢿⣿⣦⡀⠀⠀⠀⠀
+⠀⠀⠀⢀⣴⣿⡿⠋⠀⠀⠀⣽⣿⠀⠀⠀⠙⢿⣿⣦⣄⠀⠀
+⠀⣠⣴⣿⡿⠋⠀⠀⠀⠀⠀⢼⣿⠀⠀⠀⠀⠀⠈⢻⣿⣷⣄
+⠈⠙⢿⣿⣦⣄⠀⠀⠀⠀⠀⢸⣿⠀⠀⠀⠀⠀⣠⣾⣿⠟⠁
+⠀⠀⠀⠙⢿⣿⣷⣄⠀⠀⠀⢸⣿⠀⠀⠀⣠⣾⣿⠟⠁⠀⠀
+⠀⠀⠀⠀⠀⠙⢻⣿⣷⡄⠀⢸⣿⠀⠀⣼⣿⣿⠃⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠈⠻⢿⣿⣦⣸⣿⣠⣾⣿⠟⠁⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⢿⣿⣿⣿⡿⠁⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
->> [~] $_ cat ./about.txt
-* builds systems that survive load, failure, and real constraints.
-* optimizes for observability before performance.
-* treats tooling (nvim, shell, wm) as part of the system.
-* distrusts abstractions that hide cost.
-
->> [~] $_
+   Systems Engineer · Arch · NixOS · Hyprland · Neovim
 ```
 ### Connect
 
@@ -43,32 +49,24 @@ resume
 
 <table>
   <tr>
-    <td align="center">
-      <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Fawz-Haaroon&show_icons=true&hide_border=true&bg_color=0a0f14&title_color=9efcff&icon_color=9efcff&text_color=e6edf3" />
-    </td>
-    <td align="center">
-      <img alt="Contribution Streak" src="https://streak-stats.demolab.com?user=Fawz-Haaroon&hide_border=true&background=0a0f14&stroke=9efcff&ring=9efcff&fire=ff6b6b&currStreakLabel=9efcff" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fawz-Haaroon&layout=compact&hide_border=true&bg_color=0a0f14&title_color=9efcff&text_color=e6edf3" />
-    </td>
-    <td align="center">
-      <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=Fawz-Haaroon&theme=matrix&no-frame=true&no-bg=true&margin-w=10&column=4" />
-    </td>
-  </tr>
-  <tr>
     <td colspan="2" align="center">
       <img alt="Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fawz-Haaroon&theme=tokyonight" />
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img alt="Summary Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fawz-Haaroon&theme=tokyonight" />
+      <img alt="Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fawz-Haaroon&theme=tokyonight" />
     </td>
     <td align="center">
       <img alt="Productive Time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Fawz-Haaroon&theme=tokyonight" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img alt="Repos per Language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fawz-Haaroon&theme=tokyonight" />
+    </td>
+    <td align="center">
+      <img alt="Most Commit Language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fawz-Haaroon&theme=tokyonight" />
     </td>
   </tr>
 </table>
@@ -76,44 +74,39 @@ resume
 
 #### pifeed
 
-```text
-PIFEED
-Modular real-time video streaming and recording system for autonomous drones.
+<p align="center">
+  <a href="https://github.com/Fawz-Haaroon/pifeed">
+    <img alt="pifeed project window" src="assets/projects/pifeed-card.svg" />
+  </a>
+</p>
 
-Stack: GStreamer · MAVLink · Embedded Linux
-Focus: real-time video pipelines under latency, bandwidth, and hardware limits.
-Target: sub-second end-to-end video latency under embedded constraints.
-Repo: https://github.com/Fawz-Haaroon/pifeed
-```
+- Modular real-time video streaming and recording for autonomous drones.
+- Stack: GStreamer · MAVLink · Embedded Linux.
+- Target: sub-second end-to-end video latency under embedded constraints.
 
 #### nvim
 
-```text
-NVIM
-Custom Neovim workspace tuned for systems engineering.
+<p align="center">
+  <a href="https://github.com/Fawz-Haaroon/nvim">
+    <img alt="nvim project window" src="assets/projects/nvim-card.svg" />
+  </a>
+</p>
 
-Stack: Neovim · Lua · LSP · Treesitter
-Focus: low-latency editing, controlled plugin overhead, fast startup.
-Repo: https://github.com/Fawz-Haaroon/nvim
-```
+- Custom Neovim workspace tuned for systems engineering.
+- Stack: Neovim · Lua · LSP · Treesitter.
+- Focus: low-latency editing, controlled plugin overhead, fast startup.
 
 #### Profile dashboard
 
-```text
-PROFILE DASHBOARD
-This repository. GitHub profile as an observable system.
-
-Stack: GitHub Actions · SVG · Markdown
-Focus: real metrics, generated README, zero fake data.
-Repo: https://github.com/Fawz-Haaroon/Fawz-Haaroon
-```
-
-#### Pinned Repositories
-
 <p align="center">
-  <a href="https://github.com/Fawz-Haaroon/pifeed"><img alt="pifeed" src="https://github-readme-stats.vercel.app/api/pin?username=Fawz-Haaroon&repo=pifeed&theme=radical&hide_border=true" /></a>
-  <a href="https://github.com/Fawz-Haaroon/nvim"><img alt="nvim" src="https://github-readme-stats.vercel.app/api/pin?username=Fawz-Haaroon&repo=nvim&theme=radical&hide_border=true" /></a>
+  <a href="https://github.com/Fawz-Haaroon/Fawz-Haaroon">
+    <img alt="Profile dashboard window" src="assets/projects/profile-dashboard-card.svg" />
+  </a>
 </p>
+
+- This repository. GitHub profile as an observable system.
+- Stack: GitHub Actions · SVG · Markdown.
+- Focus: real metrics, generated README, zero fake data.
 ### Stack Matrix
 
 #### Languages
@@ -208,94 +201,13 @@ Real coding activity metrics (WakaTime or equivalent) will be wired here once an
 ### Visitor Analytics
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Fawz-Haaroon&color=9efcff&style=flat-square&label=Profile+Views)
-## Identity
+## Doctrine
 
-**Name:** Fawz Haaroon  
-**Role:** Systems Engineer  
-**Operating Domain:** Linux, low-level software, networking, observability, embedded systems  
-**Primary Mode:** Terminal-first engineering  
-
-I don’t build demos. I build systems that survive real load, real failure, and real constraints.  
-I care about how software behaves under stress, not how it looks in slides.
-
----
-
-## What I Actually Do
-
-I work in the layers where performance, correctness, and operability collide:
-
-- Design and implement **systems-level software**
-- Build **networked and embedded pipelines** where latency, hardware limits, and reliability matter
-- Engineer **observability-first backends**: metrics, tracing, and failure visibility are part of the architecture, not add-ons
-- Treat **tooling and workflow as part of the system** (editor, shell, build chain, deployment)
-
-I don’t chase frameworks. I analyze cost, memory, scheduling, and failure modes.
-
----
-
-## How I Think About Systems
-
-- **Production > Demos**  
-  If it only works on your laptop, it doesn’t exist.
-
-- **Metrics > Opinions**  
-  If you can’t measure it, you can’t claim it.
-
-- **Abstractions Hide Cost**  
-  Every layer has a price. I track it.
-
-- **Observability Is Architecture**  
-  Tracing, logging, and metrics are not “afterwards.” They are structural components.
-
-- **10× Load Is the Baseline**  
-  Any system that cannot explain its behavior at 10× traffic is not production-ready.
-
----
-
-## Engineering Doctrine
-
-- I optimize for **correctness, debuggability, and operational clarity** before raw speed.  
-- I distrust **black-box frameworks, magic defaults, and fashionable abstractions**.  
-- A system is **bad** if it cannot explain itself when it fails.  
-- A system is **good** if it degrades predictably, exposes its state, and can be reasoned about under pressure.
-
----
-
-## What I Build
-
-- **Systems software** (low-level, performance-aware)
-- **Embedded and constrained pipelines**
-- **Networking-heavy architectures**
-- **Observability-first backends**
-- **Developer tooling as infrastructure**
-
-I am not a frontend engineer. I am not a “full-stack” generalist. I do not optimize for presentation.
-
----
-
-## Tooling & Environment
-
-- **OS:** Arch Linux / NixOS  
-- **Editor:** Neovim (custom configuration, workflow as architecture)  
-- **Shell:** zsh  
-- **Philosophy:** The environment is part of the system
-
----
-
-## What I Explicitly Reject
-
-- “Passionate about technology”
-- “Driven by innovation”
-- Skill bars and self-rated percentages
-- Abstractions that hide runtime cost
-- Systems that look clean but fail silently
-- Claims without code, metrics, or evidence
-
-If it cannot be traced, measured, or reasoned about, it does not belong in my work.
-
----
-
-## Personal Rule
+- Production over demos. If it only works on your laptop, it does not exist.
+- Metrics over opinions. If you can’t measure it, you can’t claim it.
+- Abstractions are cost centers until proven otherwise.
+- Observability is architecture, not an add-on.
+- Tooling (nvim, shell, wm) is part of the system, not decoration.
 
 > **A system that cannot explain itself under stress is already broken.**  
 > Measure everything. Trust nothing. Build for operators, not for demos.
