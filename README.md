@@ -7,41 +7,32 @@
 </p>
 
 ```text
-                             *                
-                            ***               
-                           **:*               
-                          *+++++              
-                         +******+             
-                        ++++++++++            
-                       /++++++++++/           
-                -+syhddmmmmmmmmmmdhs/-        
-             :ydmmmmmmmmmmmmmmmmmmmmmmy:     
-          `/ymmmmmmmmmmmmmmmmmmmmmmmmmmd/    
-        .+mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmh.   
-       .ymmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmh-  
-      `dmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmd+  
-      ommmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm+  
-      ymmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm/  
-      yMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm/  
-      yMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm/  
-      yMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm/  
-      yMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm/  
-      yMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm/  
-      yMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm/  
-      /ssssssssssssssssssssssssssssssssss+   
-
-User        lextron  [home:/home/lexitron/]
-Host        Strelizia
-OS          Arch Linux  x86_64
-Kernel      Linux 6.18.3-arch1-2
-Packages    2176 (pacman) · 11 (flatpak)
-DE / WM     Hyprland 0.53.1 (Wayland)
-CPU         12th Gen Intel(R) Core(TM) i7-1255U [C:4+8] 4.70 GHz
-GPU         Intel Iris Xe Graphics [C:96] 1.25 GHz
-Memory      8.07 GiB / 15.29 GiB (52%)
-Disk        227.37 GiB / 359.62 GiB (63%)
+--------------------------------------------------------------------------------------------------------------------
+~ » fastfetch                                                                                    lexitron@Strelizia
+                  -`                      USER     󰑃  Fawz Haaroon (lexitron)
+                 .o+`                    │ ├ 󰑃  Age: 19
+                `ooo/                    │ ├ 󰑃  Chennai, IN
+               `+oooo:                   │ └ 󰑃  fawzhaaroon216@gmail.com
+              `+oooooo:                   ENV      󰑃  Arch Linux · NixOS
+              -+oooooo+:                 │ ├ 󰑃  Linux (rolling)
+            `/:-:++oooo+:                │ ├ 󰑃  Neovim, Tmux
+           `/++++/+++++++:               │ ├ 󰑃  zsh + starship
+          `/++++++++++++++:              │ └ 󰑃  Hyprland (Wayland)
+         `/+++ooooooooooooo/`            󰌢 STACK    󰑃  Systems-first engineering
+        ./ooosssso++osssssso+`           │ ├ 󰑃  Rust, C, C++, Go, Java, Python
+       .oossssso-````/ossssss+`          │ ├ 󰑃  Linux internals, networking
+      -osssssso.      :ssssssso.         │ ├ 󰑃  Docker, Kubernetes, Nginx, PostgreSQL
+     :osssssss/        osssso+++.        │ ├󰍺 󰑃  Raspberry Pi
+    /ossssssss/        +ssssooo/-        │ └ 󰑃  Git
+  `/ossssso+/:-        -:/+osssso+-      󰌢 PRESENCE 󰑃  Online
+ `+sso+:-`                 `.-/+oso:     │ ├ 󰑃  GitHub: Fawz-Haaroon
+`++:.                           `-/+/    │ ├ 󰑃  X: @FawzHaaroon
+.`                                 `/    │ ├ 󰑃  StackOverflow: Fawz-Haaroon
+                                         │ └ 󰑃  fawzhaaroon216@gmail.com
+           lexitron@Strelizia            󰌢 PHILOSOPHY 󰑃  “Measure everything. Trust nothing. Build for production.”
+----------------------------------------------------------------------------------------------------------------------
 ```
-### Connect
+## Connect
 
 <p align="center">
   <a href="https://github.com/Fawz-Haaroon"><img alt="GitHub" src="assets/badges/connect/github.svg" /></a>
@@ -54,7 +45,7 @@ Disk        227.37 GiB / 359.62 GiB (63%)
   <a href="https://stackoverflow.com/users/Fawz-Haaroon"><img alt="Stack Overflow" src="assets/badges/connect/stackoverflow.svg" /></a>
   <a href="https://instagram.com/algorithm_euphoria"><img alt="Instagram" src="assets/badges/connect/instagram.svg" /></a>
 </p>
-### Telemetry
+## Telemetry
 
 <table>
   <tr>
@@ -79,34 +70,43 @@ Disk        227.37 GiB / 359.62 GiB (63%)
     </td>
   </tr>
 </table>
-### Proof of Work
+## Proof of Work
 
-<p align="center">
-  <a href="https://github.com/Fawz-Haaroon/pifeed">
-    <img alt="pifeed project" src="assets/projects/pifeed-card.svg" />
-  </a>
-</p>
+  <svg xmlns="http://www.w3.org/2000/svg" width="700" height="120">
+    <rect width="700" height="120" rx="12" fill="#0a0f14" stroke="#9efcff" stroke-width="2"/>
+    <text x="24" y="45" font-family="'JetBrains Mono', monospace" font-size="18" fill="#9efcff">pifeed</text>
+    <text x="24" y="75" font-family="'JetBrains Mono', monospace" font-size="12" fill="#e6edf3">
+      Modular real-time video streaming and recording system for autonomous drones using GStreamer, MAVLink, and embedded Linux.
+    </text>
+  </svg>
 
-<p align="center">
-  <a href="https://github.com/Fawz-Haaroon/nvim">
-    <img alt="nvim config" src="assets/projects/nvim-card.svg" />
-  </a>
-</p>
+  <svg xmlns="http://www.w3.org/2000/svg" width="700" height="120">
+    <rect width="700" height="120" rx="12" fill="#0a0f14" stroke="#9efcff" stroke-width="2"/>
+    <text x="24" y="45" font-family="'JetBrains Mono', monospace" font-size="18" fill="#9efcff">nvim</text>
+    <text x="24" y="75" font-family="'JetBrains Mono', monospace" font-size="12" fill="#e6edf3">
+      A feature-complete, modular Neovim configuration designed for long-term maintainability and serious development.
+    </text>
+  </svg>
 
-<p align="center">
-  <a href="https://github.com/Fawz-Haaroon/stationInvariant">
-    <img alt="stationInvariant" src="assets/projects/stationinvariant-card.svg" />
-  </a>
-</p>
+  <svg xmlns="http://www.w3.org/2000/svg" width="700" height="120">
+    <rect width="700" height="120" rx="12" fill="#0a0f14" stroke="#9efcff" stroke-width="2"/>
+    <text x="24" y="45" font-family="'JetBrains Mono', monospace" font-size="18" fill="#9efcff">stationInvariant</text>
+    <text x="24" y="75" font-family="'JetBrains Mono', monospace" font-size="12" fill="#e6edf3">
+      A log-driven substrate for immutable communication and verifiable state.
+    </text>
+  </svg>
 
-<p align="center">
-  <a href="https://github.com/Fawz-Haaroon/Fawz-Haaroon">
-    <img alt="profile dashboard" src="assets/projects/profile-dashboard-card.svg" />
-  </a>
-</p>
-### Stack Matrix
+  <svg xmlns="http://www.w3.org/2000/svg" width="700" height="120">
+    <rect width="700" height="120" rx="12" fill="#0a0f14" stroke="#9efcff" stroke-width="2"/>
+    <text x="24" y="45" font-family="'JetBrains Mono', monospace" font-size="18" fill="#9efcff">profile dashboard</text>
+    <text x="24" y="75" font-family="'JetBrains Mono', monospace" font-size="12" fill="#e6edf3">
+      GitHub profile as an observable systems dashboard.
+    </text>
+  </svg>
+  
+## Stack Matrix
 
-#### Languages
+### Languages
 <p>
   <img alt="Rust" src="assets/badges/stack/languages/rust.svg" />
   <img alt="C" src="assets/badges/stack/languages/c.svg" />
@@ -120,7 +120,7 @@ Disk        227.37 GiB / 359.62 GiB (63%)
   <img alt="SQL" src="assets/badges/stack/languages/sql.svg" />
 </p>
 
-#### Systems & OS
+### Systems & OS
 <p>
   <img alt="Arch Linux" src="assets/badges/stack/systems/arch.svg" />
   <img alt="NixOS" src="assets/badges/stack/systems/nix.svg" />
@@ -130,7 +130,7 @@ Disk        227.37 GiB / 359.62 GiB (63%)
   <img alt="Hyprland" src="assets/badges/stack/systems/hyprland.svg" />
 </p>
 
-#### Infrastructure
+### Infrastructure
 <p>
   <img alt="Docker" src="assets/badges/stack/infra/docker.svg" />
   <img alt="Kubernetes" src="assets/badges/stack/infra/kubernetes.svg" />
@@ -141,14 +141,14 @@ Disk        227.37 GiB / 359.62 GiB (63%)
   <img alt="Redis" src="assets/badges/stack/infra/redis.svg" />
 </p>
 
-#### Embedded & Hardware
+### Embedded & Hardware
 <p>
   <img alt="Raspberry Pi" src="assets/badges/stack/embedded/raspberrypi.svg" />
   <img alt="Arduino" src="assets/badges/stack/embedded/arduino.svg" />
   <img alt="ESP32" src="assets/badges/stack/embedded/esp32.svg" />
 </p>
 
-#### Tools & Workflow
+### Tools & Workflow
 <p>
   <img alt="Neovim" src="assets/badges/stack/tools/neovim.svg" />
   <img alt="Git" src="assets/badges/stack/tools/git.svg" />
@@ -156,14 +156,14 @@ Disk        227.37 GiB / 359.62 GiB (63%)
   <img alt="Zsh" src="assets/badges/stack/tools/zsh.svg" />
   <img alt="Starship" src="assets/badges/stack/tools/starship.svg" />
 </p>
-### Current Focus
+## Current Focus
 
 Active systems work right now:
 
 - **stationInvariant** — Research on system invariants and correctness under load. _(private for now)_
 - **telemetry-core** — Observability-first backend core; metrics and introspection as first-class design. _(design and experiments, repo will be public when real)_
 - **pifeed** — Real-time drone video pipelines under bandwidth and hardware constraints · [repo](https://github.com/Fawz-Haaroon/pifeed)
-### Activity Graphs
+## Activity Graphs
 
 <table>
   <tr>
@@ -177,10 +177,10 @@ Active systems work right now:
     </td>
   </tr>
 </table>
-### Code Metrics
+## Code Metrics
 
 Real coding activity metrics (WakaTime or equivalent) will be wired here once an account is configured. Until then, only GitHub contribution data is exposed.
-### Widgets
+## Widgets
 
 <table>
   <tr>
@@ -192,10 +192,10 @@ Real coding activity metrics (WakaTime or equivalent) will be wired here once an
     </td>
   </tr>
 </table>
-### Trophies
+## Trophies
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Fawz-Haaroon&theme=matrix&no-frame=true&no-bg=true&margin-w=10&column=6)
-### Visitor Analytics
+## Visitor Analytics
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Fawz-Haaroon&color=9efcff&style=flat-square&label=Profile+Views)
 ## Doctrine
