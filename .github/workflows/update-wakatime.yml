@@ -1,11 +1,11 @@
-name: Update Code Metrics (disabled until configured)
+# name: Update Code Metrics (disabled until configured)
 
-on:
-  workflow_dispatch:
+# on:
+#   workflow_dispatch:
 
-jobs:
-  wakatime:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Placeholder
-        run: echo "Wire WakaTime or custom metrics here once credentials exist."
+# jobs:
+#   wakatime:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - name: Placeholder
+#         run: echo "Wire WakaTime or custom metrics here once credentials exist."
