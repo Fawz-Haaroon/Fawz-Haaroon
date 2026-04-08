@@ -1,210 +1,182 @@
 <p align="center">
-  <img alt="Hyprland Terminal Banner" src="assets/headers/hero-terminal.svg" />
-</p>
+    <img src="assets/headers/hero-terminal.svg" alt="terminal banner" />
+  </p>
+
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Fawz+Haaroon+%E2%80%94+Systems+Engineer;Arch+Linux+%C2%B7+Restic+%C2%B7+Hyprland+%C2%B7+Neovim;treeport+v0.50.0+shipped" alt="typing" />
+  </p>
+
+  ```
+  ~ » fastfetch                                                lexitron@Strelizia
+                    -`                 USER    Fawz Haaroon (lexitron)
+                   .o+`               | +      Age: 19, Chennai, IN
+                  `ooo/               | \      fawzhaaroon216@gmail.com
+                 `+oooo:              ENV     Arch Linux (rolling)
+                `+oooooo:             | +      Linux 6.19.11-arch1-1
+                -+oooooo+:            | +      Hyprland 0.54.3 (Wayland)
+              `/:-:++oooo+:           | +      Neovim + Tmux + zsh + starship
+             `/++++/+++++++:          STACK   Systems-first engineering
+            `/++++++++++++++:         | +      Rust, C, C++, Go, Java, Python
+           `/+++ooooooooooooo/`       | +      Linux internals, networking
+          ./ooosssso++osssssso+`      | +      Docker, Kubernetes, Nginx, PostgreSQL
+         .oossssso-````/ossssss+`     | \      Raspberry Pi, Arduino, ESP32
+        -osssssso.      :ssssssso.    MACHINE HP Laptop 15s-fq5xxx
+       :osssssss/        osssso+++.   | +      Intel i7-1255U @ 4.70 GHz
+      /ossssssss/        +ssssooo/-   | +      15.29 GiB RAM
+    `/ossssso+/:-        -:/+osssso+- | \      359.62 GiB disk
+   `+sso+:-`                `.-/+oso:  NOW     treeport v0.50.0 shipped
+  `++:.                          `-/+/
+  .`                                `/
+             lexitron@Strelizia
+  ```
+
+<br>
 
 <p align="center">
-  <img alt="Typing Intro" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=9EFCFF&center=true&vCenter=true&width=800&lines=Fawz+Haaroon+%E2%80%94+Systems+Engineer;Arch+Linux+%C2%B7+NixOS+%C2%B7+Hyprland+%C2%B7+Neovim;Building+observable+systems%2C+not+demos" />
-</p>
+    <a href="https://github.com/Fawz-Haaroon"><img src="assets/badges/connect/github.svg" alt="GitHub" /></a>
+    <a href="mailto:fawzhaaroon216@gmail.com"><img src="assets/badges/connect/gmail.svg" alt="Gmail" /></a>
+    <a href="https://www.linkedin.com/in/fawz-haaroon"><img src="assets/badges/connect/linkedin.svg" alt="LinkedIn" /></a>
+    <a href="https://x.com/FawzHaaroon"><img src="assets/badges/connect/twitter.svg" alt="X" /></a>
+    <a href="https://stackoverflow.com/users/Fawz-Haaroon"><img src="assets/badges/connect/stackoverflow.svg" alt="Stack Overflow" /></a>
+    <a href="https://codeberg.org/Fawz-Haaroon"><img src="https://img.shields.io/badge/Codeberg-Fawz--Haaroon-2185D0?style=flat-square&logo=codeberg&logoColor=white" alt="Codeberg" /></a>
+  </p>
 
-```text
---------------------------------------------------------------------------------------------------------------------
-~ » fastfetch                                                                                    lexitron@Strelizia
-                  -`                      USER     󰑃  Fawz Haaroon (lexitron)
-                 .o+`                    │ ├ 󰑃  Age: 19
-                `ooo/                    │ ├ 󰑃  Chennai, IN
-               `+oooo:                   │ └ 󰑃  fawzhaaroon216@gmail.com
-              `+oooooo:                   ENV      󰑃  Arch Linux · NixOS
-              -+oooooo+:                 │ ├ 󰑃  Linux (rolling)
-            `/:-:++oooo+:                │ ├ 󰑃  Neovim, Tmux
-           `/++++/+++++++:               │ ├ 󰑃  zsh + starship
-          `/++++++++++++++:              │ └ 󰑃  Hyprland (Wayland)
-         `/+++ooooooooooooo/`            󰌢 STACK    󰑃  Systems-first engineering
-        ./ooosssso++osssssso+`           │ ├ 󰑃  Rust, C, C++, Go, Java, Python
-       .oossssso-````/ossssss+`          │ ├ 󰑃  Linux internals, networking
-      -osssssso.      :ssssssso.         │ ├ 󰑃  Docker, Kubernetes, Nginx, PostgreSQL
-     :osssssss/        osssso+++.        │ ├󰍺 󰑃  Raspberry Pi
-    /ossssssss/        +ssssooo/-        │ └ 󰑃  Git
-  `/ossssso+/:-        -:/+osssso+-      󰌢 PRESENCE 󰑃  Online
- `+sso+:-`                 `.-/+oso:     │ ├ 󰑃  GitHub: Fawz-Haaroon
-`++:.                           `-/+/    │ ├ 󰑃  X: @FawzHaaroon
-.`                                 `/    │ ├ 󰑃  StackOverflow: Fawz-Haaroon
-                                         │ └ 󰑃  fawzhaaroon216@gmail.com
-           lexitron@Strelizia            󰌢 PHILOSOPHY 󰑃  “Measure everything. Trust nothing. Build for production.”
-----------------------------------------------------------------------------------------------------------------------
-```
-## Connect
+<br>
 
-<p align="center">
-  <a href="https://github.com/Fawz-Haaroon"><img alt="GitHub" src="assets/badges/connect/github.svg" /></a>
-  <a href="mailto:fawzhaaroon216@gmail.com"><img alt="Gmail" src="assets/badges/connect/gmail.svg" /></a>
-  <a href="https://www.linkedin.com/in/fawz-haaroon"><img alt="LinkedIn" src="assets/badges/connect/linkedin.svg" /></a>
-  <a href="https://x.com/FawzHaaroon"><img alt="X" src="assets/badges/connect/twitter.svg" /></a>
-  <a href="https://leetcode.com/Fawz--Haaroon"><img alt="LeetCode" src="assets/badges/connect/leetcode.svg" /></a>
-  <a href="https://www.codechef.com/users/Fawz--Haaroon"><img alt="CodeChef" src="assets/badges/connect/codechef.svg" /></a>
-  <a href="https://codeforces.com/profile/Fawz_Haaroon"><img alt="Codeforces" src="assets/badges/connect/codeforces.svg" /></a>
-  <a href="https://stackoverflow.com/users/Fawz-Haaroon"><img alt="Stack Overflow" src="assets/badges/connect/stackoverflow.svg" /></a>
-  <a href="https://instagram.com/algorithm_euphoria"><img alt="Instagram" src="assets/badges/connect/instagram.svg" /></a>
-</p>
-## Telemetry
+## Projects
 
-<table>
-  <tr>
-    <td colspan="2" align="center">
-      <img alt="Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fawz-Haaroon&theme=tokyonight" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img alt="Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fawz-Haaroon&theme=tokyonight" />
-    </td>
-    <td align="center">
-      <img alt="Productive Time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Fawz-Haaroon&theme=tokyonight" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img alt="Repos per Language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fawz-Haaroon&theme=tokyonight" />
-    </td>
-    <td align="center">
-      <img alt="Most Commit Language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fawz-Haaroon&theme=tokyonight" />
-    </td>
-  </tr>
-</table>
-## Proof of Work
+  <table width="100%">
+    <tr>
+      <td width="50%" valign="top">
+        <a href="https://codeberg.org/Fawz-Haaroon/TREE-PORT">
+          <img src="assets/projects/treeport-card.svg" width="100%" alt="treeport" />
+        </a>
+      </td>
+      <td width="50%" valign="top">
+        <a href="https://github.com/Fawz-Haaroon/nvim">
+          <img src="assets/projects/nvim-card.svg" width="100%" alt="nvim" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <a href="https://github.com/Fawz-Haaroon/pifeed">
+          <img src="assets/projects/pifeed-card.svg" width="100%" alt="pifeed" />
+        </a>
+      </td>
+      <td width="50%" valign="top">
+        <a href="https://github.com/Fawz-Haaroon/Solance">
+          <img src="assets/projects/solance-card.svg" width="100%" alt="Solance" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <a href="https://github.com/Fawz-Haaroon/RUSTY">
+          <img src="assets/projects/rusty-card.svg" width="100%" alt="RUSTY" />
+        </a>
+      </td>
+      <td width="50%" valign="top">
+        <a href="https://github.com/Fawz-Haaroon/stationInvariant">
+          <img src="assets/projects/stationinvariant-card.svg" width="100%" alt="stationInvariant" />
+        </a>
+      </td>
+    </tr>
+  </table>
 
-  <svg xmlns="http://www.w3.org/2000/svg" width="700" height="120">
-    <rect width="700" height="120" rx="12" fill="#0a0f14" stroke="#9efcff" stroke-width="2"/>
-    <text x="24" y="45" font-family="'JetBrains Mono', monospace" font-size="18" fill="#9efcff">pifeed</text>
-    <text x="24" y="75" font-family="'JetBrains Mono', monospace" font-size="12" fill="#e6edf3">
-      Modular real-time video streaming and recording system for autonomous drones using GStreamer, MAVLink, and embedded Linux.
-    </text>
-  </svg>
+<br>
 
-  <svg xmlns="http://www.w3.org/2000/svg" width="700" height="120">
-    <rect width="700" height="120" rx="12" fill="#0a0f14" stroke="#9efcff" stroke-width="2"/>
-    <text x="24" y="45" font-family="'JetBrains Mono', monospace" font-size="18" fill="#9efcff">nvim</text>
-    <text x="24" y="75" font-family="'JetBrains Mono', monospace" font-size="12" fill="#e6edf3">
-      A feature-complete, modular Neovim configuration designed for long-term maintainability and serious development.
-    </text>
-  </svg>
+## Stack
 
-  <svg xmlns="http://www.w3.org/2000/svg" width="700" height="120">
-    <rect width="700" height="120" rx="12" fill="#0a0f14" stroke="#9efcff" stroke-width="2"/>
-    <text x="24" y="45" font-family="'JetBrains Mono', monospace" font-size="18" fill="#9efcff">stationInvariant</text>
-    <text x="24" y="75" font-family="'JetBrains Mono', monospace" font-size="12" fill="#e6edf3">
-      A log-driven substrate for immutable communication and verifiable state.
-    </text>
-  </svg>
+  #### Languages
+  <p>
+    <img src="assets/badges/stack/languages/rust.svg" alt="Rust" />
+    <img src="assets/badges/stack/languages/c.svg" alt="C" />
+    <img src="assets/badges/stack/languages/cpp.svg" alt="C++" />
+    <img src="assets/badges/stack/languages/java.svg" alt="Java" />
+    <img src="assets/badges/stack/languages/python.svg" alt="Python" />
+    <img src="assets/badges/stack/languages/go.svg" alt="Go" />
+    <img src="assets/badges/stack/languages/javascript.svg" alt="JavaScript" />
+    <img src="assets/badges/stack/languages/typescript.svg" alt="TypeScript" />
+    <img src="assets/badges/stack/languages/bash.svg" alt="Bash" />
+    <img src="assets/badges/stack/languages/sql.svg" alt="SQL" />
+  </p>
 
-  <svg xmlns="http://www.w3.org/2000/svg" width="700" height="120">
-    <rect width="700" height="120" rx="12" fill="#0a0f14" stroke="#9efcff" stroke-width="2"/>
-    <text x="24" y="45" font-family="'JetBrains Mono', monospace" font-size="18" fill="#9efcff">profile dashboard</text>
-    <text x="24" y="75" font-family="'JetBrains Mono', monospace" font-size="12" fill="#e6edf3">
-      GitHub profile as an observable systems dashboard.
-    </text>
-  </svg>
-  
-## Stack Matrix
+  #### Systems & OS
+  <p>
+    <img src="assets/badges/stack/systems/arch.svg" alt="Arch Linux" />
+    <img src="assets/badges/stack/systems/nix.svg" alt="NixOS" />
+    <img src="assets/badges/stack/systems/linux.svg" alt="Linux" />
+    <img src="assets/badges/stack/systems/debian.svg" alt="Debian" />
+    <img src="assets/badges/stack/systems/alpine.svg" alt="Alpine" />
+    <img src="assets/badges/stack/systems/hyprland.svg" alt="Hyprland" />
+  </p>
 
-### Languages
-<p>
-  <img alt="Rust" src="assets/badges/stack/languages/rust.svg" />
-  <img alt="C" src="assets/badges/stack/languages/c.svg" />
-  <img alt="C++" src="assets/badges/stack/languages/cpp.svg" />
-  <img alt="Java" src="assets/badges/stack/languages/java.svg" />
-  <img alt="Python" src="assets/badges/stack/languages/python.svg" />
-  <img alt="Go" src="assets/badges/stack/languages/go.svg" />
-  <img alt="JavaScript" src="assets/badges/stack/languages/javascript.svg" />
-  <img alt="TypeScript" src="assets/badges/stack/languages/typescript.svg" />
-  <img alt="Bash" src="assets/badges/stack/languages/bash.svg" />
-  <img alt="SQL" src="assets/badges/stack/languages/sql.svg" />
-</p>
+  #### Infrastructure
+  <p>
+    <img src="assets/badges/stack/infra/docker.svg" alt="Docker" />
+    <img src="assets/badges/stack/infra/kubernetes.svg" alt="Kubernetes" />
+    <img src="assets/badges/stack/infra/nginx.svg" alt="Nginx" />
+    <img src="assets/badges/stack/infra/prometheus.svg" alt="Prometheus" />
+    <img src="assets/badges/stack/infra/grafana.svg" alt="Grafana" />
+    <img src="assets/badges/stack/infra/postgres.svg" alt="PostgreSQL" />
+    <img src="assets/badges/stack/infra/redis.svg" alt="Redis" />
+  </p>
 
-### Systems & OS
-<p>
-  <img alt="Arch Linux" src="assets/badges/stack/systems/arch.svg" />
-  <img alt="NixOS" src="assets/badges/stack/systems/nix.svg" />
-  <img alt="Linux" src="assets/badges/stack/systems/linux.svg" />
-  <img alt="Debian" src="assets/badges/stack/systems/debian.svg" />
-  <img alt="Alpine" src="assets/badges/stack/systems/alpine.svg" />
-  <img alt="Hyprland" src="assets/badges/stack/systems/hyprland.svg" />
-</p>
+  #### Embedded & Hardware
+  <p>
+    <img src="assets/badges/stack/embedded/raspberrypi.svg" alt="Raspberry Pi" />
+    <img src="assets/badges/stack/embedded/arduino.svg" alt="Arduino" />
+    <img src="assets/badges/stack/embedded/esp32.svg" alt="ESP32" />
+  </p>
 
-### Infrastructure
-<p>
-  <img alt="Docker" src="assets/badges/stack/infra/docker.svg" />
-  <img alt="Kubernetes" src="assets/badges/stack/infra/kubernetes.svg" />
-  <img alt="Nginx" src="assets/badges/stack/infra/nginx.svg" />
-  <img alt="Prometheus" src="assets/badges/stack/infra/prometheus.svg" />
-  <img alt="Grafana" src="assets/badges/stack/infra/grafana.svg" />
-  <img alt="PostgreSQL" src="assets/badges/stack/infra/postgres.svg" />
-  <img alt="Redis" src="assets/badges/stack/infra/redis.svg" />
-</p>
+  #### Tools
+  <p>
+    <img src="assets/badges/stack/tools/neovim.svg" alt="Neovim" />
+    <img src="assets/badges/stack/tools/git.svg" alt="Git" />
+    <img src="assets/badges/stack/tools/tmux.svg" alt="Tmux" />
+    <img src="assets/badges/stack/tools/zsh.svg" alt="Zsh" />
+    <img src="assets/badges/stack/tools/starship.svg" alt="Starship" />
+  </p>
 
-### Embedded & Hardware
-<p>
-  <img alt="Raspberry Pi" src="assets/badges/stack/embedded/raspberrypi.svg" />
-  <img alt="Arduino" src="assets/badges/stack/embedded/arduino.svg" />
-  <img alt="ESP32" src="assets/badges/stack/embedded/esp32.svg" />
-</p>
+<br>
 
-### Tools & Workflow
-<p>
-  <img alt="Neovim" src="assets/badges/stack/tools/neovim.svg" />
-  <img alt="Git" src="assets/badges/stack/tools/git.svg" />
-  <img alt="Tmux" src="assets/badges/stack/tools/tmux.svg" />
-  <img alt="Zsh" src="assets/badges/stack/tools/zsh.svg" />
-  <img alt="Starship" src="assets/badges/stack/tools/starship.svg" />
-</p>
-## Current Focus
+## Active
 
-Active systems work right now:
+  - **[treeport](https://codeberg.org/Fawz-Haaroon/TREE-PORT)** — CLI snapshot browser for ZFS, BTRFS, Restic. v0.50.0 shipped
+  - **[pifeed](https://github.com/Fawz-Haaroon/pifeed)** — Real-time drone video pipelines under embedded bandwidth constraints
+  - **stationInvariant** — System invariants and correctness under load _(private)_
+  - **telemetry-core** — Observability backend; metrics as first-class design _(pre-release)_
 
-- **stationInvariant** — Research on system invariants and correctness under load. _(private for now)_
-- **telemetry-core** — Observability-first backend core; metrics and introspection as first-class design. _(design and experiments, repo will be public when real)_
-- **pifeed** — Real-time drone video pipelines under bandwidth and hardware constraints · [repo](https://github.com/Fawz-Haaroon/pifeed)
-## Activity Graphs
+<br>
 
-<table>
-  <tr>
-    <td align="center">
-      <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Fawz-Haaroon&theme=react-dark&hide_border=true&bg_color=0a0f14&color=9efcff&line=9efcff&point=ff6b6b" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img alt="3D Contributions" src="assets/graphs/contributions-3d.svg" />
-    </td>
-  </tr>
-</table>
-## Code Metrics
+## GitHub
 
-Real coding activity metrics (WakaTime or equivalent) will be wired here once an account is configured. Until then, only GitHub contribution data is exposed.
-## Widgets
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fawz-Haaroon&theme=github_dark" alt="profile details" />
+  </p>
 
-<table>
-  <tr>
-    <td align="center">
-      <img alt="Contribution Snake" src="assets/widgets/snake-animation.svg" />
-    </td>
-    <td align="center">
-      <img alt="Typing Banner" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=9EFCFF&center=true&vCenter=true&width=600&lines=Building+systems+that+do+not+pretend;+Optimizing+for+production%2C+not+demos" />
-    </td>
-  </tr>
-</table>
-## Trophies
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fawz-Haaroon&theme=github_dark" alt="repos per language" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fawz-Haaroon&theme=github_dark" alt="commit language" />
+  </p>
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Fawz-Haaroon&theme=matrix&no-frame=true&no-bg=true&margin-w=10&column=6)
-## Visitor Analytics
+<br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Fawz-Haaroon&color=9efcff&style=flat-square&label=Profile+Views)
+## Activity
+
+  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fawz-Haaroon&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff" alt="contribution graph" />
+  </p>
+
+<br>
+
 ## Doctrine
 
-- Production over demos. If it only works on your laptop, it does not exist.
-- Metrics over opinions. If you can’t measure it, you can’t claim it.
-- Abstractions are cost centers until proven otherwise.
-- Observability is architecture, not an add-on.
-- Tooling (nvim, shell, wm) is part of the system, not decoration.
+  - Production over demos. If it only works on your laptop, it does not exist.
+  - Metrics over opinions. If you cannot measure it, you cannot claim it.
+  - Abstractions are cost centers until proven otherwise.
+  - Observability is architecture, not an add-on.
+  - Tooling — nvim, shell, wm — is part of the system, not decoration.
 
-> **A system that cannot explain itself under stress is already broken.**  
-> Measure everything. Trust nothing. Build for operators, not for demos.
+  > A system that cannot explain itself under stress is already broken.

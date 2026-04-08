@@ -1,43 +1,32 @@
 <p align="center">
-  <img alt="Hyprland Terminal Banner" src="assets/headers/hero-terminal.svg" />
-</p>
+    <img src="assets/headers/hero-terminal.svg" alt="terminal banner" />
+  </p>
 
-<p align="center">
-  <img alt="Typing Intro" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=9EFCFF&center=true&vCenter=true&width=800&lines=Fawz+Haaroon+%E2%80%94+Systems+Engineer;Arch+Linux+%C2%B7+NixOS+%C2%B7+Hyprland+%C2%B7+Neovim;Building+observable+systems%2C+not+demos" />
-</p>
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Fawz+Haaroon+%E2%80%94+Systems+Engineer;Arch+Linux+%C2%B7+Restic+%C2%B7+Hyprland+%C2%B7+Neovim;treeport+v0.50.0+shipped" alt="typing" />
+  </p>
 
-```text
-                             *                
-                            ***               
-                           **:*               
-                          *+++++              
-                         +******+             
-                        ++++++++++            
-                       /++++++++++/           
-                -+syhddmmmmmmmmmmdhs/-        
-             :ydmmmmmmmmmmmmmmmmmmmmmmy:     
-          `/ymmmmmmmmmmmmmmmmmmmmmmmmmmd/    
-        .+mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmh.   
-       .ymmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmh-  
-      `dmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmd+  
-      ommmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm+  
-      ymmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm/  
-      yMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm/  
-      yMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm/  
-      yMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm/  
-      yMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm/  
-      yMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm/  
-      yMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMm/  
-      /ssssssssssssssssssssssssssssssssss+   
-
-User        lextron  [home:/home/lexitron/]
-Host        Strelizia
-OS          Arch Linux  x86_64
-Kernel      Linux 6.18.3-arch1-2
-Packages    2176 (pacman) · 11 (flatpak)
-DE / WM     Hyprland 0.53.1 (Wayland)
-CPU         12th Gen Intel(R) Core(TM) i7-1255U [C:4+8] 4.70 GHz
-GPU         Intel Iris Xe Graphics [C:96] 1.25 GHz
-Memory      8.07 GiB / 15.29 GiB (52%)
-Disk        227.37 GiB / 359.62 GiB (63%)
-```
+  ```
+  ~ » fastfetch                                                lexitron@Strelizia
+                    -`                 USER    Fawz Haaroon (lexitron)
+                   .o+`               | +      Age: 19, Chennai, IN
+                  `ooo/               | \      fawzhaaroon216@gmail.com
+                 `+oooo:              ENV     Arch Linux (rolling)
+                `+oooooo:             | +      Linux 6.19.11-arch1-1
+                -+oooooo+:            | +      Hyprland 0.54.3 (Wayland)
+              `/:-:++oooo+:           | +      Neovim + Tmux + zsh + starship
+             `/++++/+++++++:          STACK   Systems-first engineering
+            `/++++++++++++++:         | +      Rust, C, C++, Go, Java, Python
+           `/+++ooooooooooooo/`       | +      Linux internals, networking
+          ./ooosssso++osssssso+`      | +      Docker, Kubernetes, Nginx, PostgreSQL
+         .oossssso-````/ossssss+`     | \      Raspberry Pi, Arduino, ESP32
+        -osssssso.      :ssssssso.    MACHINE HP Laptop 15s-fq5xxx
+       :osssssss/        osssso+++.   | +      Intel i7-1255U @ 4.70 GHz
+      /ossssssss/        +ssssooo/-   | +      15.29 GiB RAM
+    `/ossssso+/:-        -:/+osssso+- | \      359.62 GiB disk
+   `+sso+:-`                `.-/+oso:  NOW     treeport v0.50.0 shipped
+  `++:.                          `-/+/
+  .`                                `/
+             lexitron@Strelizia
+  ```
+  

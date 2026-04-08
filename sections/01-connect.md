@@ -1,13 +1,9 @@
-### Connect
-
 <p align="center">
-  <a href="https://github.com/Fawz-Haaroon"><img alt="GitHub" src="assets/badges/connect/github.svg" /></a>
-  <a href="mailto:fawzhaaroon216@gmail.com"><img alt="Gmail" src="assets/badges/connect/gmail.svg" /></a>
-  <a href="https://www.linkedin.com/in/fawz-haaroon"><img alt="LinkedIn" src="assets/badges/connect/linkedin.svg" /></a>
-  <a href="https://x.com/FawzHaaroon"><img alt="X" src="assets/badges/connect/twitter.svg" /></a>
-  <a href="https://leetcode.com/Fawz--Haaroon"><img alt="LeetCode" src="assets/badges/connect/leetcode.svg" /></a>
-  <a href="https://www.codechef.com/users/Fawz--Haaroon"><img alt="CodeChef" src="assets/badges/connect/codechef.svg" /></a>
-  <a href="https://codeforces.com/profile/Fawz_Haaroon"><img alt="Codeforces" src="assets/badges/connect/codeforces.svg" /></a>
-  <a href="https://stackoverflow.com/users/Fawz-Haaroon"><img alt="Stack Overflow" src="assets/badges/connect/stackoverflow.svg" /></a>
-  <a href="https://instagram.com/algorithm_euphoria"><img alt="Instagram" src="assets/badges/connect/instagram.svg" /></a>
-</p>
+    <a href="https://github.com/Fawz-Haaroon"><img src="assets/badges/connect/github.svg" alt="GitHub" /></a>
+    <a href="mailto:fawzhaaroon216@gmail.com"><img src="assets/badges/connect/gmail.svg" alt="Gmail" /></a>
+    <a href="https://www.linkedin.com/in/fawz-haaroon"><img src="assets/badges/connect/linkedin.svg" alt="LinkedIn" /></a>
+    <a href="https://x.com/FawzHaaroon"><img src="assets/badges/connect/twitter.svg" alt="X" /></a>
+    <a href="https://stackoverflow.com/users/Fawz-Haaroon"><img src="assets/badges/connect/stackoverflow.svg" alt="Stack Overflow" /></a>
+    <a href="https://codeberg.org/Fawz-Haaroon"><img src="https://img.shields.io/badge/Codeberg-Fawz--Haaroon-2185D0?style=flat-square&logo=codeberg&logoColor=white" alt="Codeberg" /></a>
+  </p>
+  

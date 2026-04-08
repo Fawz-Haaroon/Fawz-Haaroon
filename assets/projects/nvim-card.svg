@@ -1,19 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="400" height="200">
-  <rect width="400" height="200" rx="12" fill="#0a0f14" stroke="#9efcff" stroke-width="2"/>
-  <rect x="0" y="0" width="400" height="28" rx="12" ry="12" fill="#05070b" />
-  <circle cx="20" cy="14" r="4" fill="#ff6b6b" />
-  <circle cx="34" cy="14" r="4" fill="#fbbf24" />
-  <circle cx="48" cy="14" r="4" fill="#22c55e" />
-  <text x="70" y="18" font-family="'JetBrains Mono', monospace" font-size="10" fill="#9efcff">nvim :: systems workspace</text>
-
-  <text x="24" y="70" font-family="'JetBrains Mono', monospace" font-size="12" fill="#9efcff">NVIM</text>
-  <text x="24" y="90" font-family="'JetBrains Mono', monospace" font-size="10" fill="#e6edf3">
-    custom Neovim tuned for systems engineering
-  </text>
-  <text x="24" y="120" font-family="'JetBrains Mono', monospace" font-size="9" fill="#7e57c2">
-    stack: Neovim · Lua · LSP · Treesitter
-  </text>
-  <text x="24" y="140" font-family="'JetBrains Mono', monospace" font-size="9" fill="#e6edf3">
-    focus: low latency, controlled plugin overhead
-  </text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="160">
+    <rect width="380" height="160" rx="10" fill="#0d1117" stroke="#21262d" stroke-width="1.5"/>
+    <!-- title bar -->
+    <rect x="0" y="0" width="380" height="26" rx="10" ry="10" fill="#161b22"/>
+    <rect x="0" y="16" width="380" height="10" fill="#161b22"/>
+    <circle cx="18" cy="13" r="4" fill="#ff5f56"/>
+    <circle cx="30" cy="13" r="4" fill="#ffbd2e"/>
+    <circle cx="42" cy="13" r="4" fill="#27c93f"/>
+    <text x="58" y="17" font-family="'JetBrains Mono',monospace" font-size="10" fill="#8b949e">nvim — systems workspace</text>
+    <!-- project name -->
+    <text x="20" y="58" font-family="'JetBrains Mono',monospace" font-size="15" font-weight="bold" fill="#58a6ff">nvim</text>
+    <!-- description -->
+    <text x="20" y="80" font-family="'JetBrains Mono',monospace" font-size="10" fill="#c9d1d9">Neovim config built for systems engineering</text>
+    <!-- stack -->
+    <text x="20" y="114" font-family="'JetBrains Mono',monospace" font-size="9" fill="#8b949e">stack: Lua · LSP · Treesitter · lazy.nvim</text>
+    <!-- target / status line -->
+    <text x="20" y="134" font-family="'JetBrains Mono',monospace" font-size="9" fill="#3fb950">low latency, controlled plugin surface, long-term maintainability</text>
+  </svg>

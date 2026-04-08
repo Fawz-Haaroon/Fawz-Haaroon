@@ -6,13 +6,13 @@
     <circle cx="18" cy="13" r="4" fill="#ff5f56"/>
     <circle cx="30" cy="13" r="4" fill="#ffbd2e"/>
     <circle cx="42" cy="13" r="4" fill="#27c93f"/>
-    <text x="58" y="17" font-family="'JetBrains Mono',monospace" font-size="10" fill="#8b949e">stationInvariant — log substrate</text>
+    <text x="58" y="17" font-family="'JetBrains Mono',monospace" font-size="10" fill="#8b949e">rusty — sandbox</text>
     <!-- project name -->
-    <text x="20" y="58" font-family="'JetBrains Mono',monospace" font-size="15" font-weight="bold" fill="#58a6ff">stationInvariant</text>
+    <text x="20" y="58" font-family="'JetBrains Mono',monospace" font-size="15" font-weight="bold" fill="#58a6ff">RUSTY</text>
     <!-- description -->
-    <text x="20" y="80" font-family="'JetBrains Mono',monospace" font-size="10" fill="#c9d1d9">Log-driven substrate for immutable communication</text>
+    <text x="20" y="80" font-family="'JetBrains Mono',monospace" font-size="10" fill="#c9d1d9">Sandbox for systems-level Rust experiments</text>
     <!-- stack -->
     <text x="20" y="114" font-family="'JetBrains Mono',monospace" font-size="9" fill="#8b949e">stack: Rust</text>
     <!-- target / status line -->
-    <text x="20" y="134" font-family="'JetBrains Mono',monospace" font-size="9" fill="#3fb950">verifiable state, correctness under load</text>
+    <text x="20" y="134" font-family="'JetBrains Mono',monospace" font-size="9" fill="#3fb950">prototypes, low-level utilities, reference implementations</text>
   </svg>
