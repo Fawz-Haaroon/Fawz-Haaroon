@@ -1,105 +1,98 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 480" width="860" height="480">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 456" width="860" height="456">
 <style>
-    @keyframes blink { 0%,100%{opacity:1} 50%{opacity:0} }
-    @keyframes pulse { 0%,100%{opacity:0.82} 50%{opacity:1} }
-    @keyframes scan  { 0%{transform:translateY(-480px)} 100%{transform:translateY(480px)} }
-    .cur { animation: blink 1.1s step-end infinite; }
-    .cat { animation: pulse 3s ease-in-out infinite; }
-    .scan { animation: scan 8s linear infinite; }
+    @keyframes blink  { 0%,100%{opacity:1} 50%{opacity:0} }
+    @keyframes pulse  { 0%,100%{opacity:0.75} 50%{opacity:1} }
+    @keyframes scan   { 0%{transform:translateY(0)} 100%{transform:translateY(456px)} }
+    .cur  { animation: blink 1.1s step-end infinite; }
+    .cat  { animation: pulse 2.8s ease-in-out infinite; }
+    .scan { animation: scan 9s linear infinite; }
   </style>
-<rect width="860" height="480" rx="10" fill="#0e0808"/>
-<rect width="860" height="30" rx="10" fill="#180c0c"/>
-<rect y="20" width="860" height="10" fill="#180c0c"/>
-<circle cx="22" cy="15" r="5.5" fill="#ff5f56"/>
-<circle cx="40" cy="15" r="5.5" fill="#ffbd2e"/>
-<circle cx="58" cy="15" r="5.5" fill="#27c93f"/>
-<line x1="0" y1="30" x2="860" y2="30" stroke="#2a1010" stroke-width="1"/>
-<text x="22" y="36" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#3de347">~ » fastfetch</text>
-<text class="cur" x="120" y="36" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#3de347">█</text>
-<text x="838" y="36" text-anchor="end" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#666680">lexitron@Strelizia</text>
-<rect class="scan" width="860" height="2" fill="rgba(255,80,80,0.04)" rx="0"/>
-<text x="22" y="48" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#9e2020" xml:space="preserve">                  -`</text>
-<text x="22" y="66.5" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#9e2020" xml:space="preserve">                 .o+`</text>
-<text x="22" y="85" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#9e2020" xml:space="preserve">                `ooo/</text>
-<text x="22" y="103.5" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#9e2020" xml:space="preserve">               `+oooo:</text>
-<text x="22" y="122" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#9e2020" xml:space="preserve">              `+oooooo:</text>
-<text x="22" y="140.5" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#9e2020" xml:space="preserve">              -+oooooo+:</text>
-<text x="22" y="159" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#9e2020" xml:space="preserve">            `/:-:++oooo+:</text>
-<text x="22" y="177.5" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#9e2020" xml:space="preserve">           `/++++/+++++++:</text>
-<text x="22" y="196" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#9e2020" xml:space="preserve">          `/++++++++++++++:</text>
-<text x="22" y="214.5" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#9e2020" xml:space="preserve">         `/+++ooooooooooooo/`</text>
-<text x="22" y="233" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#c02828" xml:space="preserve">        ./ooosssso++osssssso+`</text>
-<text x="22" y="251.5" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#c02828" xml:space="preserve">       .oossssso-````/ossssss+`</text>
-<text x="22" y="270" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#c02828" xml:space="preserve">      -osssssso.      :ssssssso.</text>
-<text x="22" y="288.5" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#c02828" xml:space="preserve">     :osssssss/        osssso+++.</text>
-<text x="22" y="307" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#c02828" xml:space="preserve">    /ossssssss/        +ssssooo/-</text>
-<text x="22" y="325.5" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#c02828" xml:space="preserve">  `/ossssso+/:-        -:/+osssso+-</text>
-<text x="22" y="344" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#c02828" xml:space="preserve"> `+sso+:-`                 `.-/+oso:</text>
-<text x="22" y="362.5" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#c02828" xml:space="preserve">`++:.                           `-/+/</text>
-<text x="22" y="381" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#c02828" xml:space="preserve">.`                                 `/</text>
-<text x="144" y="399.5" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#c02828" text-anchor="middle">lexitron@Strelizia</text>
-<text class="cat" x="362" y="48" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#e05252">■ USER</text>
-<text x="416" y="48" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#5a5a7a">──</text>
-<text x="438" y="48" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#c8c8c8">Fawz Haaroon (lexitron)</text>
-<text x="362" y="66.5" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#9e2020" xml:space="preserve">│ ├</text>
-<text x="388" y="66.5" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#5a5a7a"> ──</text>
-<text x="410" y="66.5" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#c8c8c8">Age: 19, Chennai, IN</text>
-<text x="362" y="85" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#9e2020" xml:space="preserve">│ ├</text>
-<text x="388" y="85" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#5a5a7a"> ──</text>
-<text x="410" y="85" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#c8c8c8">fawzhaaroon216@gmail.com</text>
-<text x="362" y="103.5" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#9e2020" xml:space="preserve">│ └</text>
-<text x="388" y="103.5" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#5a5a7a"> ──</text>
-<text x="410" y="103.5" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#c8c8c8">GitHub: github.com/Fawz-Haaroon</text>
-<text class="cat" x="362" y="122" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#e05252">■ ENV</text>
-<text x="408.5" y="122" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#5a5a7a">──</text>
-<text x="430.5" y="122" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#c8c8c8">Arch Linux · NixOS</text>
-<text x="362" y="140.5" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#9e2020" xml:space="preserve">│ ├</text>
-<text x="388" y="140.5" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#5a5a7a"> ──</text>
-<text x="410" y="140.5" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#c8c8c8">Linux 6.19.11-arch1-1 (rolling)</text>
-<text x="362" y="159" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#9e2020" xml:space="preserve">│ ├</text>
-<text x="388" y="159" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#5a5a7a"> ──</text>
-<text x="410" y="159" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#c8c8c8">Hyprland 0.54.3 (Wayland)</text>
-<text x="362" y="177.5" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#9e2020" xml:space="preserve">│ ├</text>
-<text x="388" y="177.5" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#5a5a7a"> ──</text>
-<text x="410" y="177.5" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#c8c8c8">Neovim + Tmux</text>
-<text x="362" y="196" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#9e2020" xml:space="preserve">│ └</text>
-<text x="388" y="196" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#5a5a7a"> ──</text>
-<text x="410" y="196" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#c8c8c8">zsh + starship</text>
-<text class="cat" x="362" y="214.5" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#e05252">■ STACK</text>
-<text x="423.5" y="214.5" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#5a5a7a">──</text>
-<text x="445.5" y="214.5" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#c8c8c8">Systems-first engineering</text>
-<text x="362" y="233" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#9e2020" xml:space="preserve">│ ├</text>
-<text x="388" y="233" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#5a5a7a"> ──</text>
-<text x="410" y="233" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#e07070">Rust, C, C++, Go, Java, Python</text>
-<text x="362" y="251.5" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#9e2020" xml:space="preserve">│ ├</text>
-<text x="388" y="251.5" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#5a5a7a"> ──</text>
-<text x="410" y="251.5" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#c8c8c8">Linux internals, networking</text>
-<text x="362" y="270" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#9e2020" xml:space="preserve">│ ├</text>
-<text x="388" y="270" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#5a5a7a"> ──</text>
-<text x="410" y="270" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#c8c8c8">Docker, Kubernetes, Nginx, PostgreSQL</text>
-<text x="362" y="288.5" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#9e2020" xml:space="preserve">│ ├</text>
-<text x="388" y="288.5" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#5a5a7a"> ──</text>
-<text x="410" y="288.5" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#c8c8c8">Raspberry Pi, Arduino, ESP32</text>
-<text x="362" y="307" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#9e2020" xml:space="preserve">│ └</text>
-<text x="388" y="307" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#5a5a7a"> ──</text>
-<text x="410" y="307" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#c8c8c8">Git</text>
-<text class="cat" x="362" y="325.5" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#e05252">■ PRESENCE</text>
-<text x="446" y="325.5" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#5a5a7a">──</text>
-<text x="468" y="325.5" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#c8c8c8">Online</text>
-<text x="362" y="344" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#9e2020" xml:space="preserve">│ ├</text>
-<text x="388" y="344" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#5a5a7a"> ──</text>
-<text x="410" y="344" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#c8c8c8">GitHub: Fawz-Haaroon</text>
-<text x="362" y="362.5" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#9e2020" xml:space="preserve">│ ├</text>
-<text x="388" y="362.5" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#5a5a7a"> ──</text>
-<text x="410" y="362.5" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#c8c8c8">X: @FawzHaaroon</text>
-<text x="362" y="381" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#9e2020" xml:space="preserve">│ ├</text>
-<text x="388" y="381" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#5a5a7a"> ──</text>
-<text x="410" y="381" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#c8c8c8">StackOverflow: Fawz-Haaroon</text>
-<text x="362" y="399.5" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#9e2020" xml:space="preserve">│ └</text>
-<text x="388" y="399.5" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#5a5a7a"> ──</text>
-<text x="410" y="399.5" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#c8c8c8">fawzhaaroon216@gmail.com</text>
-<text class="cat" x="362" y="418" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#e05252">■ PHILOSOPHY</text>
-<text x="461" y="418" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#5a5a7a">──</text>
-<text x="483" y="418" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#c8c8c8">&quot;Measure everything. Trust nothing. Build for production.&quot;</text>
-<line x1="0" y1="444.5" x2="860" y2="444.5" stroke="#2a1010" stroke-width="1"/>
+<rect width="860" height="456" rx="10" fill="#1a1b26"/>
+<rect class="scan" y="-456" width="860" height="3" fill="rgba(122,162,247,0.035)"/>
+<text x="22" y="35" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#9ece6a">~ » fastfetch</text>
+<text class="cur" x="121" y="35" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#9ece6a">█</text>
+<text x="838" y="35" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#565f89" text-anchor="end">lexitron@Strelizia</text>
+<text x="22" y="62.75" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#7aa2f7" xml:space="preserve">                  -`</text>
+<text x="22" y="81.25" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#7ca0f5" xml:space="preserve">                 .o+`</text>
+<text x="22" y="99.75" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#7e9ef4" xml:space="preserve">                `ooo/</text>
+<text x="22" y="118.25" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#809cf2" xml:space="preserve">               `+oooo:</text>
+<text x="22" y="136.75" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#829af0" xml:space="preserve">              `+oooooo:</text>
+<text x="22" y="155.25" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#8497ee" xml:space="preserve">              -+oooooo+:</text>
+<text x="22" y="173.75" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#8695ed" xml:space="preserve">            `/:-:++oooo+:</text>
+<text x="22" y="192.25" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#8893eb" xml:space="preserve">           `/++++/+++++++:</text>
+<text x="22" y="210.75" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#8a91e9" xml:space="preserve">          `/++++++++++++++:</text>
+<text x="22" y="229.25" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#8c8fe8" xml:space="preserve">         `/+++ooooooooooooo/`</text>
+<text x="22" y="247.75" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#8d8de6" xml:space="preserve">        ./ooosssso++osssssso+`</text>
+<text x="22" y="266.25" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#8f8be4" xml:space="preserve">       .oossssso-````/ossssss+`</text>
+<text x="22" y="284.75" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#9189e2" xml:space="preserve">      -osssssso.      :ssssssso.</text>
+<text x="22" y="303.25" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#9387e1" xml:space="preserve">     :osssssss/        osssso+++.</text>
+<text x="22" y="321.75" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#9584df" xml:space="preserve">    /ossssssss/        +ssssooo/-</text>
+<text x="22" y="340.25" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#9782dd" xml:space="preserve">  `/ossssso+/:-        -:/+osssso+-</text>
+<text x="22" y="358.75" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#9980db" xml:space="preserve"> `+sso+:-`                 `.-/+oso:</text>
+<text x="22" y="377.25" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#9b7eda" xml:space="preserve">`++:.                           `-/+/</text>
+<text x="22" y="395.75" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#9d7cd8" xml:space="preserve">.`                                 `/</text>
+<text x="146" y="420.25" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#73daca" text-anchor="middle">lexitron@Strelizia</text>
+<text class="cat" x="330" y="62.75" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#f7768e">■ USER</text>
+<text x="379.32" y="62.75" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#565f89">──</text>
+<text x="397.32" y="62.75" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#7dcfff">Fawz Haaroon (lexitron)</text>
+<text x="330" y="81.25" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#3b4261">│</text>
+<text x="340" y="81.25" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#565f89">├ ──</text>
+<text x="376.1" y="81.25" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#c0caf5">Age: 19, Chennai, IN</text>
+<text x="330" y="99.75" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#3b4261">│</text>
+<text x="340" y="99.75" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#565f89">├ ──</text>
+<text x="376.1" y="99.75" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#c0caf5">fawzhaaroon216@gmail.com</text>
+<text x="330" y="118.25" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#3b4261">│</text>
+<text x="340" y="118.25" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#565f89">└ ──</text>
+<text x="376.1" y="118.25" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#7aa2f7">github.com/Fawz-Haaroon</text>
+<text class="cat" x="330" y="136.75" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#f7768e">■ ENV</text>
+<text x="372.1" y="136.75" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#565f89">──</text>
+<text x="390.1" y="136.75" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#73daca">Arch Linux · NixOS</text>
+<text x="330" y="155.25" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#3b4261">│</text>
+<text x="340" y="155.25" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#565f89">├ ──</text>
+<text x="376.1" y="155.25" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#c0caf5">Linux 6.19.11-arch1-1 (rolling)</text>
+<text x="330" y="173.75" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#3b4261">│</text>
+<text x="340" y="173.75" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#565f89">├ ──</text>
+<text x="376.1" y="173.75" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#c0caf5">Hyprland 0.54.3 (Wayland)</text>
+<text x="330" y="192.25" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#3b4261">│</text>
+<text x="340" y="192.25" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#565f89">├ ──</text>
+<text x="376.1" y="192.25" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#c0caf5">Neovim + Tmux</text>
+<text x="330" y="210.75" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#3b4261">│</text>
+<text x="340" y="210.75" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#565f89">└ ──</text>
+<text x="376.1" y="210.75" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#c0caf5">zsh + starship</text>
+<text class="cat" x="330" y="229.25" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#f7768e">■ STACK</text>
+<text x="386.54" y="229.25" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#565f89">──</text>
+<text x="404.54" y="229.25" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#ff9e64">Systems-first engineering</text>
+<text x="330" y="247.75" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#3b4261">│</text>
+<text x="340" y="247.75" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#565f89">├ ──</text>
+<text x="376.1" y="247.75" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#e0af68">Rust, C, C++, Go, Java, Python</text>
+<text x="330" y="266.25" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#3b4261">│</text>
+<text x="340" y="266.25" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#565f89">├ ──</text>
+<text x="376.1" y="266.25" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#c0caf5">Linux internals, networking</text>
+<text x="330" y="284.75" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#3b4261">│</text>
+<text x="340" y="284.75" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#565f89">├ ──</text>
+<text x="376.1" y="284.75" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#c0caf5">Docker, Kubernetes, Nginx, PostgreSQL</text>
+<text x="330" y="303.25" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#3b4261">│</text>
+<text x="340" y="303.25" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#565f89">├ ──</text>
+<text x="376.1" y="303.25" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#c0caf5">Raspberry Pi, Arduino, ESP32</text>
+<text x="330" y="321.75" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#3b4261">│</text>
+<text x="340" y="321.75" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#565f89">└ ──</text>
+<text x="376.1" y="321.75" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#c0caf5">Git</text>
+<text class="cat" x="330" y="340.25" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#f7768e">■ PRESENCE</text>
+<text x="408.2" y="340.25" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#565f89">──</text>
+<text x="426.2" y="340.25" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#9ece6a">Online</text>
+<text x="330" y="358.75" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#3b4261">│</text>
+<text x="340" y="358.75" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#565f89">├ ──</text>
+<text x="376.1" y="358.75" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#7aa2f7">GitHub: Fawz-Haaroon</text>
+<text x="330" y="377.25" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#3b4261">│</text>
+<text x="340" y="377.25" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#565f89">├ ──</text>
+<text x="376.1" y="377.25" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#c0caf5">X: @FawzHaaroon</text>
+<text x="330" y="395.75" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#3b4261">│</text>
+<text x="340" y="395.75" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#565f89">├ ──</text>
+<text x="376.1" y="395.75" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#c0caf5">StackOverflow: Fawz-Haaroon</text>
+<text x="330" y="414.25" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#3b4261">│</text>
+<text x="340" y="414.25" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#565f89">└ ──</text>
+<text x="376.1" y="414.25" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#7dcfff">fawzhaaroon216@gmail.com</text>
+<text class="cat" x="330" y="432.75" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#f7768e">■ PHILOSOPHY</text>
+<text x="422.64" y="432.75" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#565f89">──</text>
+<text x="440.64" y="432.75" font-family="'JetBrains Mono','Fira Code','Courier New',monospace" font-size="12" fill="#565f89">"Measure everything. Trust nothing."</text>
 </svg>
